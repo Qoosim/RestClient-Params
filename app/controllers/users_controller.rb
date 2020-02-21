@@ -1,19 +1,19 @@
 class UsersController < ApplicationController
 
   def index
-    @name = "I am index action"
+    @name = "I am the index action"
   end
 
   def new
-    @name = "I am about to create post"
+    @name = "I am the new/create action"
   end
 
   def show
-    @name = "I am the list of all the users"
+    @name = "I am the show action"
   end
 
   def edit
-    @name = "I am the existing post that needs to be modified"
+    @name = "I am the edit action"
   end
 
 end
