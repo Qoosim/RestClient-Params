@@ -22,7 +22,7 @@ The final objective here, was to have a short Ruby script, that when executed vi
 
 ## 🧭 Setup & Usage
 
-Using this project should be fairly straightforward. There are however some prerequisites for your system in order to run this program:
+Using this project should be fairly straight forward. There are however some prerequisites for your system in order to run this program:
  - You must have Ruby installed. Don't know if you have it installed or how to install it? [Follow this guide](https://www.ruby-lang.org/en/documentation/installation/)
  - You must have the Ruby on Rails gem installed. To install, simply run `gem install rails` in your terminal or enter `rails -v` to verify if it is installed already. [Need help? Head here.](http://railsapps.github.io/installing-rails.html)
  - Once you have the above sorted, install the 'RestClient' gem. Enter the follwing into your terminal: `gem install rest-client`. It should complete without any problems.
